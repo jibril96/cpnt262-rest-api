@@ -9,7 +9,7 @@
 
 # Code Journal
 
-* Jessica recommended (Ghibliapi films)[https://ghibliapi.herokuapp.com/films/]
+* Jessica recommended [Ghibliapi films](https://ghibliapi.herokuapp.com/films/)
 
 * I used my old assignments, Youtuber (The Coding Train)[https://www.youtube.com/watch?v=RfMkdvN-23o&t=0s]
 
