@@ -2,7 +2,7 @@
 
 # Jibril
 
- ##  (GH repo)[https://github.com/jibril96/cpnt262-rest-api]
+ ##  (GH repo) [https://github.com/jibril96/cpnt262-rest-api]
 
  ##  (Gh Page)[]
 
