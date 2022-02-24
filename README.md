@@ -2,7 +2,7 @@
 
 # Jibril
 
- ##  (GH repo) [https://github.com/jibril96/cpnt262-rest-api]
+ ##  [GH repo](https://github.com/jibril96/cpnt262-rest-api)
 
  ##  (Gh Page)[]
 
@@ -11,7 +11,7 @@
 
 * Jessica recommended [Ghibliapi films](https://ghibliapi.herokuapp.com/films/)
 
-* I used my old assignments, Youtuber (The Coding Train)[https://www.youtube.com/watch?v=RfMkdvN-23o&t=0s]
+* I used my old assignments, Youtuber [The Coding Train](https://www.youtube.com/watch?v=RfMkdvN-23o&t=0s)
 
 * When i created the refresh button i forgot to declare the button with const.
 
@@ -37,10 +37,10 @@ to make the page refresh only content not the whole page.
 
 * Jessica
 
-* (Ghibliapi)[https://ghibliapi.herokuapp.com/]
+* [Ghibliapi](https://ghibliapi.herokuapp.com/)
 
 * w3schools.com
 
-* (The Coding Train)[https://www.youtube.com/watch?v=RfMkdvN-23o&t=0s]
+* [The Coding Train](https://www.youtube.com/watch?v=RfMkdvN-23o&t=0s)
 
 * Patrick
