@@ -4,7 +4,7 @@
 
  ##  [GH repo](https://github.com/jibril96/cpnt262-rest-api)
 
- ##  (Gh Page)[]
+ ##  [Gh Page](https://jibril96.github.io/cpnt262-rest-api/)
 
 
 # Code Journal
